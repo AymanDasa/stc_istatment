@@ -1,5 +1,5 @@
 # Description
-This Python script is designed to perform data processing tasks on a CSV files named "*.csv". It utilizes the pandas library for data manipulation. The purpose of this script is to filter and reorganize the data from the input CSV file and then save the results in a new CSV file named "stc_csv.csv".
+This Python script is designed to perform data processing tasks on a CSV files named "*.csv". It utilizes the pandas library for data manipulation. The purpose of this script is to filter and reorganize the data from the input CSV file and then save the results in a new CSV file named "*_YYYY_mm_dd.csv".
 # Prerequisites
 Before running this script, ensure you have the following prerequisites installed:
 - Python: Make sure you have Python installed on your system. You can download it from Python's official website.
